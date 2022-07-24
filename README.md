@@ -25,15 +25,13 @@ Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
 ## CREDIT 💕
 ```
+╔═══❖𝘾𝙊𝘿𝙀𝙍❖═══╗
 
+𝙂𝘼𝘽𝘽𝘼𝙍 
 
-╔═══❖CODER❖═══╗
-GABBAR👿
-spydy 👿
-gopuu 👿
+𝙨𝙥𝙮𝙙𝙮 
 
+𝙜𝙤𝙥𝙪𝙪 
 
-
-
-
+╔═══
 
