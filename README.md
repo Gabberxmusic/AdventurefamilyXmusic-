@@ -6,7 +6,7 @@ For Any Query Join Our Support Group 👥
 
 <a href="https://t.me/ADVENTURE_FAMILYS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<a href="https://t.me/export_gabbar"><img src="https://img.shields.io/badge/repo-Telegram%30Owner-darkgreen.svg?logo=telegram"></a>
+<a href="https://t.me/export_gabbar"><img src="https://img.shields.io/badge/repo-Telegram%20Owner-darkgreen.svg?logo=telegram"></a>
 
 
 Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
