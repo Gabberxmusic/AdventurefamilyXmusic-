@@ -1,11 +1,13 @@
-# adventure Music Bot
+# 🦋͜͡⍣𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄 𝐅𝐀𝐌𝐈𝐋𝐘♪═✘ 𝙈𝙐𝙎𝙄𝘾 🥀✨
 
 For Any Query Join Our Support Group 👥
 
 <a href="https://t.me/myworldGJ516"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/ADVENTURE_FAMILYS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-# Special Thanks -> [@ADVENTURE_FAMILYS](https://t.me/ADVENTURE_FAMILYS) 
+# CHATTING GROUP🔥= [@ADVENTURE_FAMILYS](https://t.me/ADVENTURE_FAMILYS) 
+# DPZ CHANNAL🥀    = [@MyworldGJ516](https://t.me/myworldGJ516)
+# OWNER😇 = [@export_gabbar](https://t.me/export_gabbar)
 
 Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
@@ -19,6 +21,7 @@ Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
 <p align="center"><a href="https://heroku.com/deploy?template=https:https://github.com/Gabberxmusic/AdventurefamilyXmusic">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+
 
 ## CREDIT 💕
 ```
