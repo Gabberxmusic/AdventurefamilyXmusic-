@@ -3,11 +3,11 @@
 For Any Query Join Our Support Group 👥
 
 <a href="https://t.me/myworldGJ516"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
 <a href="https://t.me/ADVENTURE_FAMILYS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-# CHATTING GROUP🔥= [@ADVENTURE_FAMILYS](https://t.me/ADVENTURE_FAMILYS) 
-# DPZ CHANNAL🥀    = [@MyworldGJ516](https://t.me/myworldGJ516)
-# OWNER😇 = [@export_gabbar](https://t.me/export_gabbar)
+<a href="https://t.me/export_gabbar"><img src="https://img.shields.io/badge/repo-Telegram%30Owner-darkgreen.svg?logo=telegram"></a>
+
 
 Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
@@ -24,14 +24,12 @@ Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
 
 ## CREDIT 💕
-```
 ╔═══❖𝘾𝙊𝘿𝙀𝙍❖═══╗
 
-𝙂𝘼𝘽𝘽𝘼𝙍 
+𝙂𝘼𝘽𝘽𝘼𝙍
 
 𝙨𝙥𝙮𝙙𝙮 
 
-𝙜𝙤𝙥𝙪𝙪 
+𝙜𝙤𝙥𝙪𝙪  
 
 ╔═══
-
